@@ -1,7 +1,6 @@
 package food;
 
-public class Fruit {
-    void Fruit(String name) {
-        
-    }
+public abstract class Fruit {
+    // declaration d'une methode caracteristique de la classe Fruit
+    public abstract void caracteristique();
 }
