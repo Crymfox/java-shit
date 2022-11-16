@@ -1,6 +1,6 @@
 package chapitre2;
 
-public class UseInterface {
+public class UseInterface implements FaireOperation {
     int x, y;
     static char z;
 
